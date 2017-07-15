@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Open Source Developer
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Open Source Developer and computer science student.
+Learning software engineering, computer vision and machine learning.
+
+Prefer to speak C++, love to work with Raspberry PI.
+
+Always looking for new technologies.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[chriamue@gmail.com](mailto:chriamue@gmail.com)
