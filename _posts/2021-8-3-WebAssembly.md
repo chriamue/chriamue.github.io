@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EasyImageSizer is Lenna soon!
+title: WebAssembly
 ---
 
 Let me share some thoughts about WebAssembly.
