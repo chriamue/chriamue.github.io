@@ -6,14 +6,27 @@ permalink: /about/
 
 Open Source Developer
 
-### More Information
+##  🔭 I’m currently working on
 
-Open Source Developer and computer science student.
-Learning software engineering, computer vision and machine learning.
+* Image Processing: [lenna-project](github.com/lenna-project)
+* Sensors: [Ultrasonic and Lidar](https://github.com/chriamue/esp32_ultrasonic)
 
-Prefer to speak C++, love to work with Raspberry PI.
+## 🌱 I’m currently learning
 
-Always looking for new technologies.
+ * [Rust](https://doc.rust-lang.org/book/) Programming Language
+ * [Tauri](https://github.com/tauri-apps/tauri)
+ * [Vue](https://v3.vuejs.org/)
+ * Rust based [WebAssembly](https://rustwasm.github.io/book/)
+
+## 👯 I’m looking to collaborate on
+
+ * Machine Learning projects in Rust
+ * Self sovereign identity like [IOTA Identity](https://github.com/iotaledger/identity.rs)
+ * Image Processing like [Photon](https://github.com/silvia-odwyer/photon)
+
+## ⚡ Fun fact:
+
+Respect is everything!
 
 ### Contact me
 
